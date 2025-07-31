@@ -15,7 +15,7 @@ export default defineConfig([
   {
     plugins: {
       drizzle: fixupPluginRules(drizzlePlugin),
-  }
+  },
 },
 ]);
  
